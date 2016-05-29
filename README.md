@@ -10,13 +10,13 @@ Programm can analyze incoming text and try to answer reasonable and he support g
 
 Full description:
 
-a. Stop talking» - the program does not respond to the phrase entered in the
-Further , as long as the command is entered «Start talking»
-b. «Start talking» - team entered to resume interatktivnogo mode
-program after the introduction of the team «Stop talking»
-c. «Goodbye» - should lead to termination . when administered
+<p>a. Stop talking» - the program does not respond to the phrase entered in the
+Further , as long as the command is entered «Start talking»</p>
+<p>b. «Start talking» - team entered to resume interatktivnogo mode
+program after the introduction of the team «Stop talking»</p>
+<p>c. «Goodbye» - should lead to termination . when administered
 This command also should show the last line of the file
-answers.txt.
-d. «Use another file: XXXXX» - team must isplzovat to
+answers.txt.</p>
+<p>d. «Use another file: XXXXX» - team must isplzovat to
 change the file that should be read out of the phrase. XXXXX - the way to new
-file ( you can specify both relative and absolute) .
+file ( you can specify both relative and absolute).</p>
